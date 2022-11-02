@@ -1,8 +1,0 @@
-C:\Users\dj_ar\OneDrive\Рабочий стол\Final_1_GB_Homework\Final_1_GB_Homework\bin\Debug\Final_1_GB_Homework.exe.config
-C:\Users\dj_ar\OneDrive\Рабочий стол\Final_1_GB_Homework\Final_1_GB_Homework\bin\Debug\Final_1_GB_Homework.exe
-C:\Users\dj_ar\OneDrive\Рабочий стол\Final_1_GB_Homework\Final_1_GB_Homework\bin\Debug\Final_1_GB_Homework.pdb
-C:\Users\dj_ar\OneDrive\Рабочий стол\Final_1_GB_Homework\Final_1_GB_Homework\obj\Debug\Final_1_GB_Homework.csproj.AssemblyReference.cache
-C:\Users\dj_ar\OneDrive\Рабочий стол\Final_1_GB_Homework\Final_1_GB_Homework\obj\Debug\Final_1_GB_Homework.csproj.SuggestedBindingRedirects.cache
-C:\Users\dj_ar\OneDrive\Рабочий стол\Final_1_GB_Homework\Final_1_GB_Homework\obj\Debug\Final_1_GB_Homework.csproj.CoreCompileInputs.cache
-C:\Users\dj_ar\OneDrive\Рабочий стол\Final_1_GB_Homework\Final_1_GB_Homework\obj\Debug\Final_1_GB_Homework.exe
-C:\Users\dj_ar\OneDrive\Рабочий стол\Final_1_GB_Homework\Final_1_GB_Homework\obj\Debug\Final_1_GB_Homework.pdb
